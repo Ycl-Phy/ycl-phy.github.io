@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.chenglongyou.com//sitemap.xml
+Sitemap: https://ycl-phy.github.io//sitemap.xml
