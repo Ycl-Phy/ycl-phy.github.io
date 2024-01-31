@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Ycl-Phy.github.io/sitemap.xml
+Sitemap: https://ycl-phy.github.io//sitemap.xml
