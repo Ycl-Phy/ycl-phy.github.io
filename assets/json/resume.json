@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Chenglong You",
+    "label": "Research Assistant Professor",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "cyou2@lsu.edu",
+    "phone": "225-578-4147",
+    "url": "https://www.chenglongyou.com",
+    "summary": "to be updated",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "228 Nicholson Hall",
+      "postalCode": "LA 70803",
+      "city": "Baton Rouge",
       "countryCode": "US",
-      "region": "California"
+      "region": "Louisiana"
     },
     "profiles": [
       {
