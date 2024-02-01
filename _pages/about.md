@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Quantum Optics</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Quantum Optics</a>. Quantum Plasmonics. Contacts. Moto. Etc.
 
 profile:
   align: right
