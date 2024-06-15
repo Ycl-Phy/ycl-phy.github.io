@@ -2,8 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Chenglong You
-# the website title (if blank, full name will be used instead)
+title: Chenglong You # the website title (if blank, full name will be used instead)
 first_name: Chenglong
 middle_name: 
 last_name: You
